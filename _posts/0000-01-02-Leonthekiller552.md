@@ -2,5 +2,5 @@
 layout: side
 tittle: "bienvenidos a la segunda pagina"
 ---
-Gracias por visitar mi proyecto
+:smile: Espero les guste 
 utiliza la flecha hacia la izquierda para volver!
